@@ -9,3 +9,4 @@ Nazwa zespołu: ??? #zyn11mg
 ???
 
 ##  Ulubione technologie
+swift
