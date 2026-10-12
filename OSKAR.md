@@ -6,4 +6,4 @@ Lubię sieci.
 Lubię GITa.
 
 ## Hobby
-Moje Hoyby to komputer
+Moje Hobby to komputer
