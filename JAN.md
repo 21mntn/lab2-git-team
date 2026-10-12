@@ -3,4 +3,4 @@ Lubię samochody.
 Lubię komputery.
 Lubię gita.
 #HOBBY
-programowaniee
+programowanie
