@@ -1,4 +1,4 @@
-# Zespół
+# ZESPUŁ DOWNA
 
 Nazwa zespołu: zyn11mg
 
