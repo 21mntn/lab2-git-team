@@ -7,7 +7,7 @@ Oskar
 
 ## Motto
 
-???
+huefiadowgvbwieuaF
 
 ##  Ulubione technologie
 swift
