@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: ??? #zyn11mg
+Nazwa zespołu: zyn11mg
 
 ## Skład
 Oskar
