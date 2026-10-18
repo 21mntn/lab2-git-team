@@ -7,7 +7,7 @@ Oskar
 
 ## Motto
 
-???
+Smacznej kawusi, je**ć kapusi
 
 ##  Ulubione technologie
 swift
