@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Zespół
+=======
+# ZESPUŁ DOWNA
+>>>>>>> main
 
 Nazwa zespołu: zyn11mg
 
