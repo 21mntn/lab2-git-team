@@ -1,0 +1,1 @@
+# Czego chce się nauczyć na tym przedmiocie? - Chce sie nauczyc obslugi GITa i głownie JS oraz jego zastosowania
