@@ -21,3 +21,5 @@ Smacznej kawusi, je**ć kapusi
 
 ##  Ulubione technologie
 swift
+
+#Data zajęć : 19.10.2026
