@@ -3,3 +3,5 @@
 # Nauka uzycia JS na SID i URL
 
 # NIE WIEM COKOLWIEKwrbid
+
+# Uwaga od Jan: jakas rada 
